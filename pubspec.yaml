@@ -12,9 +12,23 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+
   iconsax: ^0.0.8
   cupertino_icons: ^1.0.6
+
+
   get: ^4.6.6
+  get_storage: ^2.1.1
+
+  http: ^1.2.2
+  intl: ^0.19.0
+  logger: ^2.4.0
+  url_launcher: ^6.3.0
+
+
+
+
 
 dev_dependencies:
   flutter_test:
